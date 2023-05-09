@@ -11,7 +11,7 @@ const int motorPin1 = 4;   // Green colour / Represents backward (alone & backwa
 const int motorPin2 = 6;   // Orange colour / Represents forward (alone & forward) left
 const int motorPin3 = 10;  // Yellow color / Represents forward (alone & forward) right
 const int motorPin4 = 11;  // Blue colour / Represents backward (alone & reverse) left
-
+// Can change depending on how circuit is made and wiring is done
 const int RfTxPin = 3;
 
 // For RF Transmitter
