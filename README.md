@@ -5,6 +5,7 @@ This repository contains Arduino-based projects for controlling cars using Bluet
     Bluetooth Car
     Bluetooth LCD Car
     Communication between Two Cars using Arduino and RF Module
+    Communication between a PC and Arduino Rover using custom made GUI
 
 Requirements
 
